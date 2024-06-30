@@ -4,7 +4,7 @@
 
 Customer churn, or customer attrition, is the loss of clients or customers. In the telecom industry, it refers to customers who stop using a company's services. Predicting churn is crucial for telecom companies because retaining existing customers is often more cost-effective than acquiring new ones. By identifying customers at risk of churning, companies can take proactive measures to retain them, such as offering discounts or personalized services. This project addresses this problem by building a predictive model that helps identify potential churners based on their usage patterns and account information.
 
-![alt text]([http://url/to/img.png](https://soloway.tech/wp-content/uploads/2023/06/Churn-prediction.png))
+<img src = "https://soloway.tech/wp-content/uploads/2023/06/Churn-prediction.png" alt = "img">
 
 ## Project Overview
 
